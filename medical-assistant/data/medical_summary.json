@@ -1,0 +1,8 @@
+{
+    "default_persistent_user": {
+        "symptoms_log": [],
+        "key_diagnoses_mentioned": [],
+        "allergies": [],
+        "medications_log": []
+    }
+}
